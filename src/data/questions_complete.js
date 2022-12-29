@@ -64,11 +64,6 @@ const data = [
         answer:
           "ferramenta utilizada para otimização de processos, incluindo as etapas de planejamento; execução; controle ou verificação; e ação corretiva.",
       },
-      {
-        question: "A posição que deixa um elemento fixo é a:",
-        options: ["static", "absolute", "fixed", "relative"],
-        answer: "fixed",
-      },
     ],
   },
 ];
